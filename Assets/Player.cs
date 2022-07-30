@@ -6,7 +6,7 @@ public class Player : MonoBehaviour
 {
     public int life;
     // Start is called before the first frame update
-    // Camille est une pute 
+    // Camille est une pute et il aime sucer des gros zgeg de noirs (et antoine aussi)
     void Start()
     {
         
