@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-    public int life;
+    private int _life;
     // Start is called before the first frame update
-    // Camille est une pute 
+    // Camille est gentil 
     void Start()
     {
         
